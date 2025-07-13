@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FoTcO9NVDgM=",
+  "dgSpecHash": "WvSRwCtNknY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\erika\\OneDrive - SESISENAISP - Corporativo\\Documentos\\PROJETOS_Ai102_CERTIFICAÇÃO\\01-azure_ai_services\\rest-client\\rest_client.csproj",
+  "projectFilePath": "C:\\Users\\erika\\OneDrive - SESISENAISP - Corporativo\\Documentos\\projetos_ai102_certificacao\\01-azure_ai_services\\rest-client\\rest_client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erika\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\erika\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

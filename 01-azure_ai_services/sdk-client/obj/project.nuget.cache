@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EvH9GDdeXBI=",
+  "dgSpecHash": "BkriaFjnx9M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\erika\\OneDrive - SESISENAISP - Corporativo\\Documentos\\PROJETOS_Ai102_CERTIFICAÇÃO\\01-azure_ai_services\\sdk-client\\sdk-client.csproj",
+  "projectFilePath": "C:\\Users\\erika\\OneDrive - SESISENAISP - Corporativo\\Documentos\\projetos_ai102_certificacao\\01-azure_ai_services\\sdk-client\\sdk-client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erika\\.nuget\\packages\\azure.ai.textanalytics\\5.3.0\\azure.ai.textanalytics.5.3.0.nupkg.sha512",
     "C:\\Users\\erika\\.nuget\\packages\\azure.core\\1.33.0\\azure.core.1.33.0.nupkg.sha512",
